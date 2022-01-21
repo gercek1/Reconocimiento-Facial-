@@ -9,6 +9,7 @@ En este proyecto veremos como realizar reconocimiento facial en Python usando Op
 * Entrenamiento del reconocedor
 * EigenFaces
 EigenFaces en OpenCV, cv2.face.EigenFaceRecognizer_create()
+
 *FisherFaces
 FisherFaces en OpenCV, cv2.face.FisherFaceRecognizer_create()
 
