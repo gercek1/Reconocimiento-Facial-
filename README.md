@@ -7,14 +7,15 @@ En este proyecto veremos como realizar reconocimiento facial en Python usando Op
 * Creando la base de datos de los rostros
 * Preparando los datos para entrenar
 * Entrenamiento del reconocedor
-EigenFaces
-EigenFaces en OpenCV, cv2.face.EigenFaceRecognizer_create()
+#### EigenFaces
 
-*FisherFaces
-FisherFaces en OpenCV, cv2.face.FisherFaceRecognizer_create()
+* EigenFaces en OpenCV, cv2.face.EigenFaceRecognizer_create()
 
-* Local Binary Patterns Histograms
-LBPH en OpenCV, cv2.face.LBPHFaceRecognizer_create()
+#### FisherFaces
+* FisherFaces en OpenCV, cv2.face.FisherFaceRecognizer_create()
+
+#### Local Binary Patterns Histograms
+* LBPH en OpenCV, cv2.face.LBPHFaceRecognizer_create()
 
 * Entrenamiento (Código)
 * Guardando el modelo obtenido
