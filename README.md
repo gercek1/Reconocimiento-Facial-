@@ -1,9 +1,9 @@
 
-## reconocimiento facial con open cv-
+# Reconocimiento facial con open cv-
 
 En este proyecto veremos como realizar reconocimiento facial en Python usando OpenCV, para ello emplearemos: Eigenfaces, Fisherfaces y Local Binary Patterns Histograms. Para poder llevar a cabo el reconocimiento facial, en primer lugar necesitaremos recolectar los datos, es decir los rostros de las personas que se desee reconocer, posteriormente entrenaremos el clasificador, para finalmente probarlo. Para todo este proceso será necesario usar la detección de rostros con haarcascades
 
-# contenido 
+## contenido 
 * Creando la base de datos de los rostros
 * Preparando los datos para entrenar
 * Entrenamiento del reconocedor
