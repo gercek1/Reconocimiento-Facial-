@@ -26,7 +26,7 @@ LBPH en OpenCV, cv2.face.LBPHFaceRecognizer_create()
 
 ![reconocedor](https://user-images.githubusercontent.com/49911347/150588586-b5addcfc-81f3-4732-bfce-f49d8f516719.png)
 
-* orden del codigo
+### orden del codigo
 - Encontrando Rostros
 - Entrenamiento
 - recoFacialFinal
